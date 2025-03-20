@@ -1,2 +1,3 @@
 # Senac.Console.Algoritim
-projeto console em .NET 8
+
+projeto de console em .NET 8
